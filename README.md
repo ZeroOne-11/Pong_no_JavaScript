@@ -1,1 +1,1 @@
-# Pong_no_JavaSript
+# Pong_no_JavaScript
