@@ -2,7 +2,7 @@
 
 # Link do projeto:
 
-zeroone-11.github.io/Pong_no_JavaScript/
+https://zeroone-11.github.io/Pong_no_JavaScript/
 
 Este trabalho está licenciado sob
   
